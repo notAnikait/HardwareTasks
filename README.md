@@ -13,7 +13,7 @@ void loop() {
   delay(1000); 
 }
 ```
-![Task-01](img/task01.png)
+![Task-01](task01.png)
 
 ## Control an LED with a pushbutton.
 ```
@@ -31,7 +31,7 @@ void loop() {
   delay(10);
 }
 ```
-![Task-02](img/task02.png)
+![Task-02](task02.png)
 
 ## Control an LED with a potentiometer.
 ```
@@ -48,7 +48,7 @@ void loop() {
   delay(10);
 }
 ```
-![Task-03](img/task03.png)
+![Task-03](task03.png)
 
 ## Measure temperature with a thermistor.
 ```
@@ -78,7 +78,7 @@ void loop() {
   delay(1000);
 }
 ```
-![Task-04](img/task04.png)
+![Task-04](task04.png)
 
 ## Control a servo motor(PWM).
 ```
@@ -96,4 +96,4 @@ void loop() {
   delay(15);
 }
 ```
-![Task-05](img/task05.png)
+![Task-05](task05.png)
